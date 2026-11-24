@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Shifa Thasni K 👋
+
+I am an aspiring **Data Analyst** passionate about turning raw data into clear, actionable insights through exploratory data analysis, querying, and interactive dashboards.
+
+### 🛠️ Technical Skills
+* **Programming & Querying:** Python (Pandas, NumPy, Matplotlib, Seaborn), MySQL
+* **Data Visualization & BI:** Power BI, Microsoft Excel
+* **Core Competencies:** Data Cleaning, Exploratory Data Analysis (EDA), Statistical Analysis, KPI Reporting
+
+
 
 <!--
 **ShifaThasniK/ShifaThasniK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
