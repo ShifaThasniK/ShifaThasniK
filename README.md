@@ -1,7 +1,6 @@
 # Hi there, I'm Shifa Thasni K 👋
 
-I am an aspiring **Data Analyst** passionate about turning raw data into clear, actionable insights through exploratory data analysis, querying, and interactive dashboards.
-
+I am an aspiring **Data Analyst** who loves solving business puzzles with data. From writing structured SQL queries and exploring datasets in Python to designing executive dashboards in Power BI, Tableau, and Excel, I focus on turning complex data into clear, visual stories.
 ### 🛠️ Technical Skills
 * **Programming & Querying:** Python (Pandas, NumPy, Matplotlib, Seaborn), MySQL
 * **Data Visualization & BI:** Power BI, Microsoft Excel
